@@ -25,7 +25,7 @@ int main() {
         cout << "The number is zero." << endl;
     }
 
-    // Check if the number is greater than 100
+    // Check if the number is  greater than 100
     if (num > 100) {
         cout << "The number is greater than 100." << endl;
     }
